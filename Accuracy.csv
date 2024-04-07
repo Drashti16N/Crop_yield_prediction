@@ -1,0 +1,6 @@
+Model,MAE,MSE,MS_log_error,Median_absolute_error,R2_score
+Linear Regression,57.4678,121145.98,5.115,16.6006,0.8429
+Random Forest Regressor,14.4573,"43,330.99",0.0212,0.1147,0.9427
+Boosted Tree Regressor,9.2635,"17,546.40",0.1311,0.5496,0.9768
+Lasso Regressior,80.0738,"1,56,183.82",7.716,32.3533,0.7934
+Auto Regressior,4.911,"2,465.29",0.1155,,0.9968
