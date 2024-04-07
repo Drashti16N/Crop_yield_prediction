@@ -39,6 +39,20 @@ https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset
 ![image](https://github.com/Drashti16N/Crop_yield_prediction/assets/142567844/91679aee-6f9f-4955-855a-5cd9a8beecd8)
 
 
+- **Query Link:**
+
+1) https://console.cloud.google.com/bigquery?project=striped-antler-417216&ws=!1m4!1m3!8m2!1s1016104865611!2s4a440e0864e64507a449fa6dd8905c43
+2) https://console.cloud.google.com/bigquery?sq=39333987166:62917e895754419699bbda349c55b5bd
+
+
+
+- **Dashboard:**
+
+https://lookerstudio.google.com/reporting/b0cc6f82-425b-451c-b012-0826b2bc2a1e
+
+
+
+
 
 
 
